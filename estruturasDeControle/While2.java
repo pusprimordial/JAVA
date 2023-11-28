@@ -1,3 +1,4 @@
+package estruturasDeControle;
 import java.util.Scanner;
 
 public class While2{

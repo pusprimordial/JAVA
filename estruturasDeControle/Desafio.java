@@ -1,3 +1,4 @@
+package estruturasDeControle;
 public class Desafio {
     public static void main(String[] args) {
         Double nota = 1.3;
